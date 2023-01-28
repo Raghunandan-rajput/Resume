@@ -1,0 +1,46 @@
+.Main{
+    margin: auto;
+    width: 80%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 25px;
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: #ccc;
+    text-decoration: underline;
+}
+h3{
+    font-size: 18px;
+}
+td,th{
+    border: 1px solid #ccc;
+    padding: 12px 38px;
+    margin: 2px;
+    text-align: center;
+    color:#0885d7;
+    font-size: 19px;
+}
+.work{
+    list-style: none;
+}
+.career{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
+li{
+    font-size: 15px;
+}
+table{
+    margin: auto;
+}
+.sign{
+    float: right;
+    padding-right: 10px;
+}
